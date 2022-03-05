@@ -1,0 +1,18 @@
+Group members: George Taylor (Manager), Michael Carico, Ahmed Adnan, Matthew Charles
+
+Meeting weekly: Wednesday after 6:00 pm
+
+Classes
+
+Timer – used for intervals between customer arrivals and service times
+Customer – base class to create what a customer is
+Register – used to keep track of money coming in
+Warehouse – used to find and store item data
+Item – used to store price and quantity
+Price – an items value
+Quantity – amount of an item available
+
+Division of labor: TBD
+
+Github Page: https://github.com/Ithndr/CSC202Rangers
+

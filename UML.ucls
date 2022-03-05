@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="rangersA.Customer" project="TeamProject" 
+    file="/TeamProject/rangersA/Customer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="179" width="135" x="438" y="95"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="rangersA.Item" project="TeamProject" file="/TeamProject/rangersA/Item.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="133" x="187" y="185"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="rangersA.Price" project="TeamProject" file="/TeamProject/rangersA/Price.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="154" width="161" x="677" y="73"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="rangersA.Quantity" project="TeamProject" 
+    file="/TeamProject/rangersA/Quantity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="123" width="155" x="151" y="365"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="rangersA.Register" project="TeamProject" 
+    file="/TeamProject/rangersA/Register.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="183" width="140" x="692" y="482"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="rangersA.Timer" project="TeamProject" file="/TeamProject/rangersA/Timer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="163" width="205" x="667" y="244"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="rangersA.Warehouse" project="TeamProject" 
+    file="/TeamProject/rangersA/Warehouse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="192" width="214" x="381" y="357"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
