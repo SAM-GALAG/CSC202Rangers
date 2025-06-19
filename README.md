@@ -27,3 +27,14 @@ This was a group project. I was responsible for:
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/CSC202Rangers.git
+   
+🧠 What I Learned
+	•	Structuring Java projects using OOP
+	•	Collaborating in a team with version control
+	•	Managing file input/output in Java
+
+📎 Credits
+
+Original repo: Ithndr/CSC202Rangers
+Developed by a team of college students for educational purposes.
+   
